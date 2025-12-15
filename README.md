@@ -1,5 +1,4 @@
 
-# minecraft-server-scripts
 # Minecraft Server Scripts
 
 Bash scripts for managing a Minecraft server.
