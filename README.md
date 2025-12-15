@@ -1,4 +1,4 @@
- HEAD
+
 # minecraft-server-scripts
 # Minecraft Server Scripts
 
